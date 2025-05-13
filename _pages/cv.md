@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 layout: archive
 title: "CV"
 permalink: /cv/
