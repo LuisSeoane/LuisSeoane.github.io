@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Luis Seoane Estruel"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Luis Seoane Estruel"
 description              : &description "Ph.D. Candidate in Agricultural and Resource Economics"
 url                      : "https://luisseoane.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
