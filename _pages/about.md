@@ -4,7 +4,6 @@ title: "About Me"
 #excerpt: "About me"
 author_profile: true
 ---
-
 🚧 Under Construction
 ======
 Thanks for visiting! I’m currently building this site as I prepare for the job market.
