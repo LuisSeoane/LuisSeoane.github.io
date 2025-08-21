@@ -1,3 +1,13 @@
+
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 🚧 Under Construction
 ======
 Thanks for visiting! I’m currently building this site as I prepare for the job market.
