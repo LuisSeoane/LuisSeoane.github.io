@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Luis Seoane Estruel"
+#title: "Luis Seoane Estruel"
 #excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+#redirect_from: 
+#  - /about/
+#  - /about.html
 
 ---
 
