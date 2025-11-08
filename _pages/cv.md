@@ -8,6 +8,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [**➡️ Click here to view or download my CV (PDF)**](/files/1125_CV.pdf){:target="_blank"}
