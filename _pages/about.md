@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-## 🚧 Under Construction
+🚧 Under Construction
 ======
 Thanks for visiting! I’m currently building this site as I prepare for the job market.
 
