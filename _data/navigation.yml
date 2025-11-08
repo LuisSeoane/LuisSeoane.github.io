@@ -21,7 +21,9 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/1125_CV.pdf
+    target: _blank
+ #  url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/
