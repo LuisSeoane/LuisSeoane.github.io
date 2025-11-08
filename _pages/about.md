@@ -9,15 +9,8 @@ redirect_from:
 
 ---
 
-🚧 Under Construction
-======
-Thanks for visiting! I’m currently building this site as I prepare for the job market.
+Thank you for visiting my website. I am a Ph.D. candidate in Agricultural and Resource Economics at the University of Connecticut and will be on the 2025–2026 academic job market.
 
-In the meantime, here’s a bit about me:
-Ph.D. Candidate in Applied Economics at the University of Connecticut, with research interests in Health Economics, Labor Economics, and Industrial Organization.
+My research uses large administrative datasets and quasi-experimental methods to study how public policies shape labor markets, maternal and child health, and economic inequality. My current work examines the impact of the 2022 U.S. infant formula shortage on breastfeeding behaviors and healthcare costs, and how labor market concentration moderates the effects of minimum wage policies. I am especially interested in policy-relevant questions at the intersection of labor, health, and industrial organization.
 
-🧐 By day: Applied Economist.
-By night: Still an economist (Google Scholar can confirm).
-Exploring health, labor, and IO—one dataset at a time.
-
-More updates coming soon!
+Contact: <a href="mailto:luis.seoane@uconn.edu?">luis.seoane@uconn.edu</a>
