@@ -11,6 +11,6 @@ redirect_from:
 
 Thank you for visiting my website. I am a Ph.D. candidate in Agricultural and Resource Economics at the University of Connecticut and will be on the 2025–2026 academic job market.
 
-My research uses large administrative datasets and quasi-experimental methods to study how public policies shape labor markets, maternal and child health, and economic inequality. My current work examines the impact of the 2022 U.S. infant formula shortage on breastfeeding behaviors and healthcare costs, and how labor market concentration moderates the effects of minimum wage policies. I am especially interested in policy-relevant questions at the intersection of labor, health, and industrial organization.
+My research examines how public policies influence labor markets, maternal and child health, and economic inequality. I study how employer market concentration shapes the effects of minimum wage policies on employment and earnings, and analyze the impact of the 2022 infant formula shortage on breastfeeding behaviors and healthcare costs. My work aims to inform policy design at the intersection of labor economics and health policy, leveraging large administrative datasets and quasi-experimental methods.
 
 Contact: <a href="mailto:luis.seoane@uconn.edu?">luis.seoane@uconn.edu</a>
