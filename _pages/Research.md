@@ -20,8 +20,7 @@ Pediatrics, 155(1), e2024067139 (2025) <br/>
 # **Working Papers**
 
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
-(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>   
-<small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
+(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>  <small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
 
 **Impact of the 2022 Infant Formula Shortage on Breastfeeding and Infant Healthcare Costs** <br/> 
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
