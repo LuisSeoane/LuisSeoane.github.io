@@ -41,19 +41,28 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* === Rectangular profile photo (no circle, full portrait) === */
-.sidebar .author__avatar img,
-.author__avatar img {
-  width: 100%;        /* use full container width */
-  height: auto;       /* keep natural rectangle shape */
-  object-fit: cover;  /* safe if cropping ever happens */
-  border-radius: 0;   /* no circle, no rounded corners */
-  max-width: 260px;   /* adjust size - try 280px, 300px, etc. */
+/* === Rectangular profile photo with thin border (Erik style) === */
+.sidebar .author__avatar {
+  padding: 0 !important;                /* remove white padding */
+  margin: 0 auto 1rem auto !important;  /* center + reduce space below */
+  max-width: 300px !important;          /* adjust width: 260–320px */
+  width: auto !important;
+  border: none !important;              /* remove default container border */
 }
 
-/* Allow the container to grow for bigger images */
-.sidebar .author__avatar {
-  max-width: 260px;   /* match the image max width */
-  width: auto;
+.sidebar .author__avatar img,
+.author__avatar img {
+  width: 100% !important;               /* full width */
+  height: auto !important;              /* keep rectangle */
+  object-fit: cover;
+  border-radius: 0 !important;          /* no rounding */
+  border: 2px solid #e5e5e5 !important; /* thin border like Erik */
+  box-shadow: none !important;
+  display: block;
+}
+
+/* Reduce space before the name under the picture */
+.author__content {
+  margin-top: 0.5rem !important;
 }
 
