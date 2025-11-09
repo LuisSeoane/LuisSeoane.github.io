@@ -40,3 +40,20 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* === Rectangular profile photo (no circle, full portrait) === */
+.sidebar .author__avatar img,
+.author__avatar img {
+  width: 100%;        /* use full container width */
+  height: auto;       /* keep natural rectangle shape */
+  object-fit: cover;  /* safe if cropping ever happens */
+  border-radius: 0;   /* no circle, no rounded corners */
+  max-width: 260px;   /* adjust size - try 280px, 300px, etc. */
+}
+
+/* Allow the container to grow for bigger images */
+.sidebar .author__avatar {
+  max-width: 260px;   /* match the image max width */
+  width: auto;
+}
+
