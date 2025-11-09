@@ -20,7 +20,7 @@ Pediatrics, 155(1), e2024067139 (2025) <br/>
 # **Working Papers**
 
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
-(_with [Fanny Moffette](https://fannymoffette.com/)_) (_Conditionally Accepted at The Economic Journal_) <br/>   
+(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>   
 <small> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}  </small>
 
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?**<br/>
