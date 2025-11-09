@@ -21,17 +21,17 @@ Pediatrics, 155(1), e2024067139 (2025) <br/>
 
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>   
-<small> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}  </small>
+<small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
 
-**Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?**<br/>
-<small>
-[Revise and Resubmit at Economic Analysis & Policy] &nbsp; 
-[Working Paper](/files/Seoane_MinimumWage.pdf){:target="_blank"}
-</small>
+**Impact of the 2022 Infant Formula Shortage on Breastfeeding and Infant Healthcare Costs** <br/> 
+(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
+<small> [Open Access Pre-Print](https://dx.doi.org/10.2139/ssrn.5220234){:target="_blank"}  </small>
+
 
 # **Work in Progress**
 
-**Impact of the 2022 Infant Formula Shortage on Breastfeeding and Infant Healthcare Costs**<br/>
-<small>
-[Draft Available Soon]
-</small>
+**Exploring the Driving Factors Influencing Residential Photovoltaic Installations in Connecticut: A Case Study**<br/>
+(_with [Ruirui Dang](https://are.uconn.edu/person/ruirui-dang/) and [Mengjie Li](https://are.uconn.edu/person/mengji-li/)_) <br/>
+
+**Meatpacking Concentration Implications for Supply Chain Performance**<br/>
+(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and [Sandra Lettu](https://are.uconn.edu/person/sandra-lettu/)_) <br/>   
