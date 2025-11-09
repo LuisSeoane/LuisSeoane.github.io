@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 
 ---
+# **About Me**
 
 Thank you for visiting my website. I am a Ph.D. candidate in Agricultural and Resource Economics at the [University of Connecticut](https://are.uconn.edu/) and will be on the 2025–2026 academic job market.
 
