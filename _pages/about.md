@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Thank you for visiting my website. I am a Ph.D. candidate in Agricultural and Resource Economics at the University of Connecticut and will be on the 2025–2026 academic job market.
+Thank you for visiting my website. I am a Ph.D. candidate in Agricultural and Resource Economics at the [University of Connecticut](https://are.uconn.edu/) and will be on the 2025–2026 academic job market.
 
 My research examines how public policies influence labor markets, maternal and infant health, and economic inequality. I study how employer market concentration shapes the effects of minimum wage policies on employment and earnings. In parallel, I analyze the impact of the 2022 infant formula shortage on breastfeeding behaviors and healthcare costs. My work aims to inform policy design at the intersection of labor economics and health policy, leveraging large administrative datasets and quasi-experimental methods.
 
