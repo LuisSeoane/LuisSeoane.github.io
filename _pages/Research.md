@@ -27,7 +27,7 @@ Pediatrics, 155(1), e2024067139 (2025) <br/>
 <small> [Open Access Pre-Print](https://dx.doi.org/10.2139/ssrn.5220234){:target="_blank"}  </small>
 
 **Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory** <br/> 
-(_with [Tessa Getchis](https://seagrant.uconn.edu/person/tessa-getchis/) and [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/) and [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and Angela Zhang_) (_Revise and Resubmit at Journal of Regional Analysis & Policy_) <br/>  <small> [Draft Available Upon Request] </small>
+(_with [Tessa Getchis](https://seagrant.uconn.edu/person/tessa-getchis/), [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/), [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and Angela Zhang_) (_Revise and Resubmit at Journal of Regional Analysis & Policy_) <br/>  <small> [Draft Available Upon Request] </small>
 
 **Breastfeeding in the United States, 2022–2024: Sustaining Gains Beyond the Formula Shortage** <br/>
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
