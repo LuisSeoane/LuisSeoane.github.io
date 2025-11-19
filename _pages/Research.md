@@ -23,7 +23,7 @@ Pediatrics, 155(1), e2024067139 (2025) <br/>
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>  <small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
 
 **Impact of the 2022 Infant Formula Shortage on Breastfeeding and Infant Healthcare Costs** <br/> 
-(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
+(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_) (_Revise and Resubmit at Preventive Medicine_) <br/>
 <small> [Open Access Pre-Print](https://dx.doi.org/10.2139/ssrn.5220234){:target="_blank"}  </small>
 
 **Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory** <br/> 
