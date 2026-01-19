@@ -4,8 +4,6 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-
-<div class="research-list">
   
 # **Publications**<br/>
 
@@ -44,4 +42,3 @@ Pediatrics, 155(1), e2024067139 (2025) <br/>
 **Meatpacking Concentration Implications for Supply Chain Performance**<br/>
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and [Sandra Lettu](https://are.uconn.edu/person/sandra-lettu/)_) <br/>   
 
-</div>
