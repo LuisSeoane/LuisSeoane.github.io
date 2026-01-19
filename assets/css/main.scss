@@ -41,7 +41,7 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* === Rectangular profile photo with thin border (Erik style) === */
+/* === Rectangular profile photo with thin border === */
 .sidebar .author__avatar {
   padding: 0 !important;                /* remove white padding */
   margin: 0 auto 1rem auto !important;  /* center + reduce space below */
@@ -64,5 +64,13 @@
 /* Reduce space before the name under the picture */
 .author__content {
   margin-top: 0.5rem !important;
+}
+
+.research-list {
+  font-size: 0.95rem;
+}
+
+.research-list small {
+  font-size: 0.85rem;
 }
 
