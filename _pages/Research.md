@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
   
-# **Publications**<br/>
+## **Publications**<br/>
 
 **Maternity Care Practices and Their Role in U.S. Breastfeeding Disparities** <br/>
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
