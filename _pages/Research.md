@@ -35,10 +35,16 @@ Media Coverage: &nbsp;[UConn Today](https://today.uconn.edu/2025/01/formula-shor
 
 **Breastfeeding in the United States, 2022–2024: Sustaining Gains Beyond the Formula Shortage** <br/>
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
-<small> [Draft Available Upon Request] <br/> </small>
-
-## **Work in Progress**  <br/>
+<small> [Draft Available Upon Request] </small>
 
 **Meatpacking Concentration Implications for Supply Chain Performance**<br/>
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and [Sandra Lettu](https://are.uconn.edu/person/sandra-lettu/)_) <br/>   
+<small> [Draft Available Upon Request] </small>
+
+## **Work in Progress**  <br/>
+
+**State-Enacted Universal School Meal Policies and Household Grocery Spending and Purchases** <br/>
+(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/), [Mengjie Li](https://are.uconn.edu/person/mengji-li/) and [Ruirui Dang](https://are.uconn.edu/person/ruirui-dang/)_) <br/>
+
+
 
