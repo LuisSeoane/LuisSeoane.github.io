@@ -38,7 +38,7 @@ Media Coverage: &nbsp;[UConn Today](https://today.uconn.edu/2025/01/formula-shor
 <small> [Draft Available Upon Request] </small>
 
 **Meatpacking Concentration Implications for Supply Chain Performance**<br/>
-(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and [Sandra Lettu](https://are.uconn.edu/person/sandra-lettu/)_) <br/>   
+(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and [Sandra Lettu](https://are.uconn.edu/person/sandra-lettu/)_) <br/> 
 <small> [Draft Available Upon Request] </small>
 
 ## **Work in Progress**  <br/>
