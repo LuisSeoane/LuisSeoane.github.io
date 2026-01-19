@@ -18,12 +18,12 @@ Journal of Regional Analysis & Policy, 56(1), 15–21 (2026) <br/>
 </small> [Journal Link](https://jrap.scholasticahq.com/article/155311-economic-contribution-of-connecticut-s-aquaculture-sector-integration-of-administrative-data-and-trajectory){:target="_blank"} </small>
 
 **Maternity Care Practices and Their Role in U.S. Breastfeeding Disparities** <br/>
-(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
+(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_) <br/>
 Breastfeeding Medicine 20:8, 579-587 (2025) <br/>
 </small> [Journal Link](https://doi.org/10.1089/bfm.2024.0368){:target="_blank"}  </small>
 
 **Breastfeeding trends following the U.S. infant formula shortage** <br/> 
-(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
+(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_) <br/>
 Pediatrics, 155(1), e2024067139 (2025) <br/>
 <small> [Journal Link](https://doi.org/10.1542/peds.2024-067139){:target="_blank"} <br/>
 Media Coverage: &nbsp;[UConn Today](https://today.uconn.edu/2025/01/formula-shortage-decreased-breastfeeding-disparities/) </small>
