@@ -6,11 +6,12 @@ author_profile: true
 ---
   
 ## **Publications**<br/>
-
+</small>
 **Maternity Care Practices and Their Role in U.S. Breastfeeding Disparities** <br/>
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
 Breastfeeding Medicine 20:8, 579-587 (2025) <br/>
-<small> [Published Version](https://doi.org/10.1089/bfm.2024.0368){:target="_blank"}  </small>
+[Published Version](https://doi.org/10.1089/bfm.2024.0368){:target="_blank"}  
+</small>
 
 **Breastfeeding trends following the U.S. infant formula shortage** <br/> 
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
