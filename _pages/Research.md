@@ -15,7 +15,8 @@ Breastfeeding Medicine 20:8, 579-587 (2025) <br/>
 **Breastfeeding trends following the U.S. infant formula shortage** <br/> 
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
 Pediatrics, 155(1), e2024067139 (2025) <br/>
-<small> [Published Version](https://doi.org/10.1542/peds.2024-067139){:target="_blank"}  </small>
+<small> [Journal Link](https://doi.org/10.1542/peds.2024-067139){:target="_blank"} <br/>
+Media Coverage: &nbsp; [UConn Today](https://today.uconn.edu/2025/01/formula-shortage-decreased-breastfeeding-disparities/) </small>
 
 ## **Working Papers**
 
