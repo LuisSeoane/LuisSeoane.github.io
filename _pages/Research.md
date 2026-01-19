@@ -9,7 +9,7 @@ author_profile: true
 
 **Breastfeeding patterns during the 2022 United States infant formula shortage and projected infant healthcare costs** <br/> 
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_) <br/>
-Preventive Medicine (2026)
+Preventive Medicine (2026) <br/>
 <small> [Journal Link](https://doi.org/10.1016/j.ypmed.2026.108503){:target="_blank"}  </small>
 
 **Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory** <br/> 
