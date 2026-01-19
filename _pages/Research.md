@@ -17,7 +17,7 @@ Breastfeeding Medicine 20:8, 579-587 (2025) <br/>
 Pediatrics, 155(1), e2024067139 (2025) <br/>
 <small> [Published Version](https://doi.org/10.1542/peds.2024-067139){:target="_blank"}  </small>
 
-# **Working Papers**
+## **Working Papers**
 
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>  <small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
@@ -34,7 +34,7 @@ Pediatrics, 155(1), e2024067139 (2025) <br/>
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
 <small> [Draft Available Upon Request] <br/> </small>
 
-# **Work in Progress**
+## **Work in Progress**
 
 **Exploring the Driving Factors Influencing Residential Photovoltaic Installations in Connecticut: A Case Study**<br/>
 (_with [Ruirui Dang](https://are.uconn.edu/person/ruirui-dang/) and [Mengjie Li](https://are.uconn.edu/person/mengji-li/)_) <br/>
