@@ -20,7 +20,6 @@ Suboptimal breastfeeding in the U.S. carries substantial health and economic cos
   </p>
 </details>
 
-
 <strong>Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory</strong><br/>
 <em>
 with
@@ -86,23 +85,39 @@ with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" r
   &nbsp;|&nbsp;
   <a href="/files/JMP_Labor.pdf" target="_blank" rel="noopener">Working Paper</a>
 </small>
+<details style="margin-top:6px;">
+  <summary style="cursor:pointer;">Expand Abstract +</summary>
+  <p style="margin-top:8px;">
+Conventional wisdom holds that an increase in the minimum wage reduces employment as it becomes more expensive for companies to hire workers. This paper examines how minimum wage increases impact employment, accounting for employer labor concentration in the two largest U.S. low-wage markets: Food Service and Drinking Places and General Merchandise Stores. Using establishment-level data and county-sector Herfindahl-Hirschman indexes (HHI) for labor, we find that minimum wage increases reduce employment in less concentrated (more competitive) labor markets, with larger effects where exposure to the minimum wage is higher. In contrast, employment effects become statistically indistinguishable from zero as concentration increases and turn positive only at very high concentration levels. Monopsony-consistent responses emerge once labor market concentration reaches an HHI of about 0.2. The results suggest that minimum wages may help mitigate labor market distortions associated with employer monopsony or oligopsony power.
+  </p>
+</details>
 
+<strong>Breastfeeding in the United States, 2022–2024: Sustaining Gains Beyond the Formula Shortage</strong><br/>
+<em>
+with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>
+</em><br/>
+<small>
+  Draft available upon request
+</small>
 
-**Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
-(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>  <small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
-
-**Breastfeeding in the United States, 2022–2024: Sustaining Gains Beyond the Formula Shortage** <br/>
-(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_)<br/>
-<small> [Draft Available Upon Request] </small>
-
-**Meatpacking Concentration Implications for Supply Chain Performance**<br/>
-(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and [Sandra Lettu](https://are.uconn.edu/person/sandra-lettu/)_) <br/> 
-<small> [Draft Available Upon Request] </small>
+<strong>Meatpacking Concentration Implications for Supply Chain Performance</strong><br/>
+<em>
+with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>
+and <a href="https://are.uconn.edu/person/sandra-lettu/" target="_blank" rel="noopener">Sandra Lettu</a>
+</em><br/>
+<small>
+  Draft available upon request
+</small>
 
 <h1>Work in Progress</h1>
 
-**State-Enacted Universal School Meal Policies and Household Grocery Spending and Purchases** <br/>
-(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/), [Mengjie Li](https://are.uconn.edu/person/mengji-li/) and [Ruirui Dang](https://are.uconn.edu/person/ruirui-dang/)_) <br/>
+<strong>State-Enacted Universal School Meal Policies and Household Grocery Spending and Purchases</strong><br/>
+<em>
+with
+<a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>,
+<a href="https://are.uconn.edu/person/mengji-li/" target="_blank" rel="noopener">Mengjie Li</a>,
+and <a href="https://are.uconn.edu/person/ruirui-dang/" target="_blank" rel="noopener">Ruirui Dang</a>
+</em><br/>
 
 <h1>Research Reports/Outreach Publications</h1>
 
