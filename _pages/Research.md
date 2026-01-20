@@ -7,7 +7,7 @@ author_profile: true
   
 <h1>Publications</h1>
 
-<div style="margin:0; padding:0;">
+<div style="margin-bottom:18px; padding:0;">
   <div style="font-weight:700;">
     <strong>Breastfeeding Patterns During the 2022 United States Infant Formula Shortage and Projected Infant Healthcare Costs</strong>
   </div>
