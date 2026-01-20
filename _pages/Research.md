@@ -121,49 +121,34 @@ Breastfeeding enhances maternal and child health, yet U.S. breastfeeding rates r
   </details>
 </div>
 
-
-
-
-
-
-
-<strong>Breastfeeding Trends Following the U.S. Infant Formula Shortage</strong><br/>
-<em>
-with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>
-</em><br/>
-Pediatrics 155(1), e2024067139 (2025)<br/>
-<small>
-  <a href="https://doi.org/10.1542/peds.2024-067139" target="_blank" rel="noopener">Journal Link</a>
-  <br/>
-  Coverage:
-  <a href="https://today.uconn.edu/2025/01/formula-shortage-decreased-breastfeeding-disparities/"
-     target="_blank" rel="noopener">UConn Today</a>
-</small>
-<details style="margin-top:6px;">
-  <summary style="cursor:pointer;">Expand Abstract +</summary>
-  <p style="margin-top:8px;">
-Breastfeeding enhances maternal and child health, yet US breastfeeding rates remain below optimal levels and substantial disparities persist. The 2022 infant formula crisis had the potential to influence infant feeding practices due to formula shortages and fears about the safety of formula feeding in the wake of recalls. This report studies the evolution of breastfeeding-initiation trends during the infant formula crisis and compares the effects across subpopulations. This study analyzed 2016–2022 national birth certificate data from 47 states and the District of Columbia based on Bayesian structural time-series analysis to measure average changes in breastfeeding-initiation trends and a linear probability model to test for heterogeneous effects. During the 2022 infant formula crisis, average breastfeeding-initiation rates increased by 1.96 percentage points (pp) (95% credible interval, 1.68 pp to 2.23 pp) and remained elevated above historical levels at the end of the formula crisis. The increase was particularly pronounced among mothers with lower education levels, those receiving Special Supplemental Nutrition Program for Women, Infants, and Children assistance, residents of less populated counties, Medicaid recipients, and Black mothers, possibly due to their higher reliance on formula feeding. Populations meeting all of these sociodemographic criteria experienced the largest increase in breastfeeding initiation at 6.06 pp (95% confidence interval, 5.26 pp to 6.87 pp). Preexisting disparities in breastfeeding initiation declined in 2022. The infant formula crisis highlights the potential for addressing breastfeeding disparities and reducing associated child and maternal health risks through targeted interventions to promote breastfeeding.
-  </p>
-</details>
-
 <br/>
 <h1>Working Papers</h1>
 
-<strong>Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?</strong><br/>
-<em>
-with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>
-</em><br/>
-<small>
-  Revise and Resubmit: <em>Economic Analysis &amp; Policy</em>
-  &nbsp;|&nbsp;
-  <a href="/files/JMP_Labor.pdf" target="_blank" rel="noopener">Working Paper</a>
-</small>
-<details style="margin-top:6px;">
-  <summary style="cursor:pointer;">Expand Abstract +</summary>
-  <p style="margin-top:8px;">
-Conventional wisdom holds that an increase in the minimum wage reduces employment as it becomes more expensive for companies to hire workers. This paper examines how minimum wage increases impact employment, accounting for employer labor concentration in the two largest U.S. low-wage markets: Food Service and Drinking Places and General Merchandise Stores. Using establishment-level data and county-sector Herfindahl-Hirschman indexes (HHI) for labor, we find that minimum wage increases reduce employment in less concentrated (more competitive) labor markets, with larger effects where exposure to the minimum wage is higher. In contrast, employment effects become statistically indistinguishable from zero as concentration increases and turn positive only at very high concentration levels. Monopsony-consistent responses emerge once labor market concentration reaches an HHI of about 0.2. The results suggest that minimum wages may help mitigate labor market distortions associated with employer monopsony or oligopsony power.
-  </p>
-</details>
+<div style="margin:0; padding:0;">
+  <div style="font-weight:700;">
+    <strong>Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?</strong><br/>
+  </div>
+  <div style="font-style: italic;">
+    with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>
+  </div>
+  <div style="margin-bottom:2px;">
+    Revise and Resubmit: <em>Economic Analysis &amp; Policy</em>
+  </div>
+  <details style="margin:0;">
+    <summary style="cursor:pointer; margin:0; padding:0;">
+      <span style="text-decoration: underline;">Expand Abstract +</span>
+      &nbsp;|&nbsp;
+      <a href="/files/JMP_Labor.pdf"
+         target="_blank" rel="noopener"
+         onclick="event.stopPropagation();">
+        Working Paper
+      </a>
+    </summary>
+    <div style="margin-top:4px;">
+Conventional wisdom holds that increases in the minimum wage reduce employment by raising labor costs. This paper examines how minimum wage changes affect employment when employer labor market concentration is taken into account in the two largest U.S. low-wage sectors: Food Service and Drinking Places and General Merchandise Stores. Using establishment-level data and county–sector Herfindahl–Hirschman indexes (HHI), we find that minimum wage increases reduce employment in more competitive labor markets, with larger effects where exposure to the minimum wage is higher. As concentration increases, employment effects become statistically indistinguishable from zero and turn positive only at very high concentration levels. Monopsony-consistent responses emerge once labor market concentration reaches an HHI of approximately 0.2. These findings suggest that minimum wages may mitigate labor market distortions associated with employer monopsony or oligopsony power.
+    </div>
+  </details>
+</div>
 
 <strong>Breastfeeding in the United States, 2022–2024: Sustaining Gains Beyond the Formula Shortage</strong><br/>
 <em>
