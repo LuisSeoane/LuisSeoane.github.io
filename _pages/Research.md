@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
   
-## **Publications** <br/>
+<strong><h2>Publications</h2></strong>
 
 <strong>Breastfeeding Patterns During the 2022 United States Infant Formula Shortage and Projected Infant Healthcare Costs</strong><br/>
 <em>with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a></em><br/>
@@ -19,14 +19,6 @@ Preventive Medicine (2026)<br/>
 Suboptimal breastfeeding in the U.S. carries substantial health and economic costs and is marked by persistent disparities. The 2022 formula shortage coincided with disruptions in infant feeding practices. This study documents changes in breastfeeding during the shortage period and projects associated infant illness and healthcare costs. Using 2017–2022 Pregnancy Risk Assessment Monitoring System data, we applied Bayesian structural time-series models to estimate deviations in breastfeeding initiation and duration during the shortage period relative to prior trends. We then used Monte Carlo simulation to project infant illness and healthcare costs. During the 2022 formula shortage, breastfeeding for at least four months was higher by 3.43 percentage points (95% credible interval [CrI]: 1.11, 5.74). Breastfeeding at one, two, and three months postpartum was 2.49 to 3.55% age points higher, and initiation was higher by 1.54 percentage points (95% CrI: 0.46, 2.59). Estimates varied across sociodemographic groups and were larger among less advantaged mothers, corresponding with smaller observed breastfeeding disparities. The simulation projects annual healthcare costs approximately $420 million lower. During the formula shortage groups with historically lower breastfeeding rates exhibited higher breastfeeding levels, highlighting the relevance of breastfeeding trends for discussions of infant disease and healthcare costs.
   </p>
 </details>
-
-
-
-
-**Breastfeeding Patterns During the 2022 United States Infant Formula Shortage and Projected Infant Healthcare Costs** <br/> 
-(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_) <br/>
-Preventive Medicine (2026) <br/>
-<small> [Journal Link](https://doi.org/10.1016/j.ypmed.2026.108503){:target="_blank"}  </small>
 
 **Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory** <br/> 
 (_with [Tessa Getchis](https://seagrant.uconn.edu/person/tessa-getchis/), [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/), [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and Angela Zhang_) <br/>
