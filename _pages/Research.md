@@ -16,7 +16,7 @@ Preventive Medicine (2026)<br/>
 <details style="margin-top:6px;">
   <summary style="cursor:pointer;">Expand Abstract +</summary>
   <p style="margin-top:8px;">
-    Paste your abstract here.
+Suboptimal breastfeeding in the U.S. carries substantial health and economic costs and is marked by persistent disparities. The 2022 formula shortage coincided with disruptions in infant feeding practices. This study documents changes in breastfeeding during the shortage period and projects associated infant illness and healthcare costs. Using 2017–2022 Pregnancy Risk Assessment Monitoring System data, we applied Bayesian structural time-series models to estimate deviations in breastfeeding initiation and duration during the shortage period relative to prior trends. We then used Monte Carlo simulation to project infant illness and healthcare costs. During the 2022 formula shortage, breastfeeding for at least four months was higher by 3.43 percentage points (95% credible interval [CrI]: 1.11, 5.74). Breastfeeding at one, two, and three months postpartum was 2.49 to 3.55% age points higher, and initiation was higher by 1.54 percentage points (95% CrI: 0.46, 2.59). Estimates varied across sociodemographic groups and were larger among less advantaged mothers, corresponding with smaller observed breastfeeding disparities. The simulation projects annual healthcare costs approximately $420 million lower. During the formula shortage groups with historically lower breastfeeding rates exhibited higher breastfeeding levels, highlighting the relevance of breastfeeding trends for discussions of infant disease and healthcare costs.
   </p>
 </details>
 
