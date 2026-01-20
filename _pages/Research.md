@@ -124,24 +124,41 @@ and <a href="https://are.uconn.edu/person/ruirui-dang/" target="_blank" rel="noo
 <br/>
 <h1>Research Reports/Outreach Publications</h1>
 
-**The Economic and Fiscal Impacts of the Connecticut Dairy Industry** <br/> 
-(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_)<br/>
-Zwick Center for Food and Resource Policy, Fact Sheet No. 5, University of Connecticut (2026) <br/>
-<small> [Report Link](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2026/01/FS06_The-Economic-and-Fiscal-Impacts-of-the-Connecticut-Dairy-Industry_accessible.pdf){:target="_blank"} </small>
+<strong>The Economic and Fiscal Impacts of the Connecticut Dairy Industry</strong><br/>
+<em>
+with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>
+</em><br/>
+Zwick Center for Food and Resource Policy, Fact Sheet No. 5, University of Connecticut (2026)<br/>
+<small>
+  <a href="https://are.media.uconn.edu/wp-content/uploads/sites/2327/2026/01/FS06_The-Economic-and-Fiscal-Impacts-of-the-Connecticut-Dairy-Industry_accessible.pdf"
+     target="_blank" rel="noopener">Report Link</a>
+</small>
 
-**An Economic Evaluation of Employment and Wages in Connecticut’s Agricultural Industry** <br/>
-(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/), [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/) and Joan Nichols_) <br/>
-Zwick Center for Food and Resource Policy, Outreach Report No. 68, University of Connecticut (2023) <br/>
-<small> [Report Link](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2024/06/OR-68-Economic-Eval-of-Employment-in-CT-Ag_2023.pdf){:target="_blank"} </small>
+<strong>An Economic Evaluation of Employment and Wages in Connecticut’s Agricultural Industry</strong><br/>
+<em>
+with
+<a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>,
+<a href="https://www.linkedin.com/in/chris-laughton-bba36213/" target="_blank" rel="noopener">Christopher Laughton</a>,
+and Joan Nichols
+</em><br/>
+Zwick Center for Food and Resource Policy, Outreach Report No. 68, University of Connecticut (2023)<br/>
+<small>
+  <a href="https://are.media.uconn.edu/wp-content/uploads/sites/2327/2024/06/OR-68-Economic-Eval-of-Employment-in-CT-Ag_2023.pdf"
+     target="_blank" rel="noopener">Report Link</a>
+</small>
 
-**An Economic Evaluation of Employment in the Connecticut Green Industry** <br/> 
-(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/), [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/) and Janina Szczepanski_) <br/>
-Zwick Center for Food and Resource Policy, Outreach Report No. 67, University of Connecticut (2022) <br/>
-<small> [Report Link](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2023/02/GreenValuation-newcover.pdf){:target="_blank"} </small>
-
-
-
-
+<strong>An Economic Evaluation of Employment in the Connecticut Green Industry</strong><br/>
+<em>
+with
+<a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>,
+<a href="https://www.linkedin.com/in/chris-laughton-bba36213/" target="_blank" rel="noopener">Christopher Laughton</a>,
+and Janina Szczepanski
+</em><br/>
+Zwick Center for Food and Resource Policy, Outreach Report No. 67, University of Connecticut (2022)<br/>
+<small>
+  <a href="https://are.media.uconn.edu/wp-content/uploads/sites/2327/2023/02/GreenValuation-newcover.pdf"
+     target="_blank" rel="noopener">Report Link</a>
+</small>
 
 
 
