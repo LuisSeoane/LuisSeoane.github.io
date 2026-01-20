@@ -7,6 +7,26 @@ author_profile: true
   
 ## **Publications** <br/>
 
+<strong>Breastfeeding Patterns During the 2022 United States Infant Formula Shortage and Projected Infant Healthcare Costs</strong><br/>
+<em>with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a></em><br/>
+Preventive Medicine (2026)<br/>
+
+<small>
+  <a href="https://doi.org/10.1016/j.ypmed.2026.108503" target="_blank" rel="noopener">Journal Link</a>
+  &nbsp;|&nbsp;
+  <a href="YOUR_PDF_URL" target="_blank" rel="noopener">Paper and Appendices</a>
+</small>
+
+<details style="margin-top:6px;">
+  <summary style="cursor:pointer;">Expand Abstract +</summary>
+  <p style="margin-top:8px;">
+    Paste your abstract here.
+  </p>
+</details>
+
+
+
+
 **Breastfeeding Patterns During the 2022 United States Infant Formula Shortage and Projected Infant Healthcare Costs** <br/> 
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_) <br/>
 Preventive Medicine (2026) <br/>
