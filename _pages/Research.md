@@ -46,7 +46,7 @@ Media Coverage: &nbsp;[UConn Today](https://today.uconn.edu/2025/01/formula-shor
 **State-Enacted Universal School Meal Policies and Household Grocery Spending and Purchases** <br/>
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/), [Mengjie Li](https://are.uconn.edu/person/mengji-li/) and [Ruirui Dang](https://are.uconn.edu/person/ruirui-dang/)_) <br/>
 
-## *Research Reports/Outreach Publications**  <br/>
+## **Research Reports/Outreach Publications**  <br/>
 
 **The Economic and Fiscal Impacts of the Connecticut Dairy Industry** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_)<br/>
