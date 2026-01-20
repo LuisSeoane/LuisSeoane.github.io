@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
   
-<h2>Publications</h2>
+<h1>Publications</h1>
 
 <strong>Breastfeeding Patterns During the 2022 United States Infant Formula Shortage and Projected Infant Healthcare Costs</strong><br/>
 <em>with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a></em><br/>
