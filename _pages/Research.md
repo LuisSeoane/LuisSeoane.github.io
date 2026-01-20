@@ -77,6 +77,17 @@ Breastfeeding enhances maternal and child health, yet US breastfeeding rates rem
 
 <h1>Working Papers</h1>
 
+<strong>Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?</strong><br/>
+<em>
+with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>
+</em><br/>
+<small>
+  Revise and Resubmit: <em>Economic Analysis &amp; Policy</em>
+  &nbsp;|&nbsp;
+  <a href="/files/JMP_Labor.pdf" target="_blank" rel="noopener">Working Paper</a>
+</small>
+
+
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>  <small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
 
