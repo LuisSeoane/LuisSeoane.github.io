@@ -75,7 +75,7 @@ Breastfeeding enhances maternal and child health, yet US breastfeeding rates rem
   </p>
 </details>
 
-## **Working Papers** <br/>
+<h1>Working Papers</h1>
 
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_) (_Revise and Resubmit at Economic Analysis & Policy_) <br/>  <small> [Working Paper](/files/JMP_Labor.pdf){:target="_blank"} </small>
@@ -88,12 +88,12 @@ Breastfeeding enhances maternal and child health, yet US breastfeeding rates rem
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and [Sandra Lettu](https://are.uconn.edu/person/sandra-lettu/)_) <br/> 
 <small> [Draft Available Upon Request] </small>
 
-## **Work in Progress**  <br/>
+<h1>Work in Progress</h1>
 
 **State-Enacted Universal School Meal Policies and Household Grocery Spending and Purchases** <br/>
 (_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/), [Mengjie Li](https://are.uconn.edu/person/mengji-li/) and [Ruirui Dang](https://are.uconn.edu/person/ruirui-dang/)_) <br/>
 
-## **Research Reports/Outreach Publications**  <br/>
+<h1>Research Reports/Outreach Publications</h1>
 
 **The Economic and Fiscal Impacts of the Connecticut Dairy Industry** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_)<br/>
