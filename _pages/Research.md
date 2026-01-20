@@ -75,14 +75,6 @@ Breastfeeding enhances maternal and child health, yet US breastfeeding rates rem
   </p>
 </details>
 
-
-
-**Breastfeeding Trends Following the U.S. Infant Formula Shortage** <br/> 
-(_with [Tatiana Andreyeva](https://are.uconn.edu/person/tatiana-andreyeva/)_) <br/>
-Pediatrics, 155(1), e2024067139 (2025) <br/>
-<small> [Journal Link](https://doi.org/10.1542/peds.2024-067139){:target="_blank"} <br/>
-Media Coverage: &nbsp;[UConn Today](https://today.uconn.edu/2025/01/formula-shortage-decreased-breastfeeding-disparities/) </small>
-
 ## **Working Papers** <br/>
 
 **Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?** <br/> 
