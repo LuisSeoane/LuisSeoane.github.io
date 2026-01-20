@@ -51,7 +51,19 @@ Media Coverage: &nbsp;[UConn Today](https://today.uconn.edu/2025/01/formula-shor
 **The Economic and Fiscal Impacts of the Connecticut Dairy Industry** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_)<br/>
 Zwick Center for Food and Resource Policy, Fact Sheet No. 5, University of Connecticut (2026) <br/>
-<small> [Report Link](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2026/01/FS06_The-Economic-and-Fiscal-Impacts-of-the-Connecticut-Dairy-Industry_accessible.pdf)){:target="_blank"} </small>
+<small> [Report Link](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2026/01/FS06_The-Economic-and-Fiscal-Impacts-of-the-Connecticut-Dairy-Industry_accessible.pdf){:target="_blank"} </small>
+
+**An Economic Evaluation of Employment and Wages in Connecticut’s Agricultural Industry** <br/>
+(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/), [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/) and Joan Nichols_) <br/>
+Zwick Center for Food and Resource Policy, Outreach Report No. 68, University of Connecticut (2023) <br/>
+<small> [Report Link](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2024/06/OR-68-Economic-Eval-of-Employment-in-CT-Ag_2023.pdf){:target="_blank"} </small>
+
+**An Economic Evaluation of Employment in the Connecticut Green Industry** <br/> 
+(_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/), [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/) and Janina Szczepanski_) <br/>
+Zwick Center for Food and Resource Policy, Outreach Report No. 67, University of Connecticut (2022) <br/>
+<small> [Report Link](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2023/02/GreenValuation-newcover.pdf){:target="_blank"} </small>
+
+
 
 
 
