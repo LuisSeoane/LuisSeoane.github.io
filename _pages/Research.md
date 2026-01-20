@@ -50,7 +50,7 @@ Media Coverage: &nbsp;[UConn Today](https://today.uconn.edu/2025/01/formula-shor
 
 **The Economic and Fiscal Impacts of the Connecticut Dairy Industry** <br/> 
 (_with [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/)_)<br/>
-Zwick Center for Food and Resource Policy, Fact Sheet No. 5, University of Connecticut (2026) <br/>  
+Zwick Center for Food and Resource Policy, Fact Sheet No. 5, University of Connecticut (2026) <br/>
 <small> [Report Link]([/files/JMP_Labor.pdf](https://are.media.uconn.edu/wp-content/uploads/sites/2327/2026/01/FS06_The-Economic-and-Fiscal-Impacts-of-the-Connecticut-Dairy-Industry_accessible.pdf)){:target="_blank"} </small>
 
 
