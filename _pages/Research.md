@@ -74,6 +74,7 @@ Breastfeeding enhances maternal and child health, yet US breastfeeding rates rem
   </p>
 </details>
 
+<br/>
 <h1>Working Papers</h1>
 
 <strong>Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?</strong><br/>
@@ -109,6 +110,7 @@ and <a href="https://are.uconn.edu/person/sandra-lettu/" target="_blank" rel="no
   Draft available upon request
 </small>
 
+<br/>
 <h1>Work in Progress</h1>
 
 <strong>State-Enacted Universal School Meal Policies and Household Grocery Spending and Purchases</strong><br/>
@@ -119,6 +121,7 @@ with
 and <a href="https://are.uconn.edu/person/ruirui-dang/" target="_blank" rel="noopener">Ruirui Dang</a>
 </em><br/>
 
+<br/>
 <h1>Research Reports/Outreach Publications</h1>
 
 **The Economic and Fiscal Impacts of the Connecticut Dairy Industry** <br/> 
