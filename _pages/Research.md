@@ -151,18 +151,16 @@ Conventional wisdom holds that increases in the minimum wage reduce employment b
 </div>
 
 <strong>Breastfeeding in the United States, 2022–2024: Sustaining Gains Beyond the Formula Shortage</strong><br/>
-<em>
 with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>
-</em><br/>
+<br/>
 <small>
   Draft available upon request
 </small>
 
 <strong>Meatpacking Concentration Implications for Supply Chain Performance</strong><br/>
-<em>
 with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>
 and <a href="https://are.uconn.edu/person/sandra-lettu/" target="_blank" rel="noopener">Sandra Lettu</a>
-</em><br/>
+<br/>
 <small>
   Draft available upon request
 </small>
@@ -171,20 +169,18 @@ and <a href="https://are.uconn.edu/person/sandra-lettu/" target="_blank" rel="no
 <h1>Work in Progress</h1>
 
 <strong>State-Enacted Universal School Meal Policies and Household Grocery Spending and Purchases</strong><br/>
-<em>
 with
 <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>,
 <a href="https://are.uconn.edu/person/mengji-li/" target="_blank" rel="noopener">Mengjie Li</a>,
 and <a href="https://are.uconn.edu/person/ruirui-dang/" target="_blank" rel="noopener">Ruirui Dang</a>
-</em><br/>
+<br/>
 
 <br/>
 <h1>Research Reports/Outreach Publications</h1>
 
 <strong>The Economic and Fiscal Impacts of the Connecticut Dairy Industry</strong><br/>
-<em>
 with <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>
-</em><br/>
+<br/>
 Zwick Center for Food and Resource Policy, Fact Sheet No. 5, University of Connecticut (2026)<br/>
 <small>
   <a href="https://are.media.uconn.edu/wp-content/uploads/sites/2327/2026/01/FS06_The-Economic-and-Fiscal-Impacts-of-the-Connecticut-Dairy-Industry_accessible.pdf"
@@ -192,12 +188,11 @@ Zwick Center for Food and Resource Policy, Fact Sheet No. 5, University of Conne
 </small>
 
 <strong>An Economic Evaluation of Employment and Wages in Connecticut’s Agricultural Industry</strong><br/>
-<em>
 with
 <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>,
 <a href="https://www.linkedin.com/in/chris-laughton-bba36213/" target="_blank" rel="noopener">Christopher Laughton</a>,
 and Joan Nichols
-</em><br/>
+<br/>
 Zwick Center for Food and Resource Policy, Outreach Report No. 68, University of Connecticut (2023)<br/>
 <small>
   <a href="https://are.media.uconn.edu/wp-content/uploads/sites/2327/2024/06/OR-68-Economic-Eval-of-Employment-in-CT-Ag_2023.pdf"
@@ -205,12 +200,11 @@ Zwick Center for Food and Resource Policy, Outreach Report No. 68, University of
 </small>
 
 <strong>An Economic Evaluation of Employment in the Connecticut Green Industry</strong><br/>
-<em>
 with
 <a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>,
 <a href="https://www.linkedin.com/in/chris-laughton-bba36213/" target="_blank" rel="noopener">Christopher Laughton</a>,
 and Janina Szczepanski
-</em><br/>
+<br/>
 Zwick Center for Food and Resource Policy, Outreach Report No. 67, University of Connecticut (2022)<br/>
 <small>
   <a href="https://are.media.uconn.edu/wp-content/uploads/sites/2327/2023/02/GreenValuation-newcover.pdf"
