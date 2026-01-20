@@ -20,6 +20,36 @@ Suboptimal breastfeeding in the U.S. carries substantial health and economic cos
   </p>
 </details>
 
+<strong>Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory</strong><br/>
+<em>
+with
+<a href="https://seagrant.uconn.edu/person/tessa-getchis/" target="_blank" rel="noopener">Tessa Getchis</a>,
+<a href="https://www.linkedin.com/in/chris-laughton-bba36213/" target="_blank" rel="noopener">Christopher Laughton</a>,
+<a href="https://are.uconn.edu/person/rigoberto-a-lopez/" target="_blank" rel="noopener">Rigoberto A. Lopez</a>,
+and Angela Zhang
+</em><br/>
+Journal of Regional Analysis &amp; Policy, 56(1), 15–21 (2026)<br/>
+<small>
+  <a href="https://jrap.scholasticahq.com/article/155311-economic-contribution-of-connecticut-s-aquaculture-sector-integration-of-administrative-data-and-trajectory"
+     target="_blank" rel="noopener">Journal Link</a>
+</small>
+<details style="margin-top:6px;">
+  <summary style="cursor:pointer;">Expand Abstract +</summary>
+  <p style="margin-top:8px;">
+  <!-- Paste abstract here -->
+  </p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
 **Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory** <br/> 
 (_with [Tessa Getchis](https://seagrant.uconn.edu/person/tessa-getchis/), [Christopher Laughton](https://www.linkedin.com/in/chris-laughton-bba36213/), [Rigoberto A. Lopez](https://are.uconn.edu/person/rigoberto-a-lopez/) and Angela Zhang_) <br/>
 Journal of Regional Analysis & Policy, 56(1), 15–21 (2026) <br/>
