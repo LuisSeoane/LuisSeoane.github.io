@@ -33,7 +33,7 @@ Suboptimal breastfeeding in the U.S. carries substantial health and economic cos
   </details>
 </div>
 
-<div style="margin:0; padding:0;">
+<div style="margin-bottom:18px; padding:0;">
   <div style="font-weight:700;">
     <strong>Economic Contribution of Connecticut’s Aquaculture Sector: Integration of Administrative Data and Trajectory</strong>
   </div>
@@ -63,7 +63,7 @@ This study estimates the economic impact of Connecticut’s aquaculture sector u
   </details>
 </div>
 
-<div style="margin:0; padding:0;">
+<div style="margin-bottom:18px; padding:0;">
   <div style="font-weight:700;">
     <strong>Maternity Care Practices and Their Role in U.S. Breastfeeding Disparities</strong><br/>
   </div>
@@ -89,7 +89,7 @@ This study estimates the economic impact of Connecticut’s aquaculture sector u
   </details>
 </div>
 
-<div style="margin:0; padding:0;">
+<div style="margin-bottom:18px; padding:0;">
   <div style="font-weight:700;">
     <strong>Breastfeeding Trends Following the U.S. Infant Formula Shortage</strong><br/>
   </div>
@@ -124,7 +124,7 @@ Breastfeeding enhances maternal and child health, yet U.S. breastfeeding rates r
 <br/>
 <h1>Working Papers</h1>
 
-<div style="margin:0; padding:0;">
+<div style="margin-bottom:18px; padding:0;">
   <div style="font-weight:700;">
     <strong>Minimum Wage Impact on Low-Wage Employment: Does Concentration Matter?</strong><br/>
   </div>
