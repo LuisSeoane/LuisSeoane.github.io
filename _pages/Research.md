@@ -12,8 +12,6 @@ author_profile: true
 Preventive Medicine (2026)<br/>
 <small>
   <a href="https://doi.org/10.1016/j.ypmed.2026.108503" target="_blank" rel="noopener">Journal Link</a>
-  &nbsp;|&nbsp;
-  <a href="YOUR_PDF_URL" target="_blank" rel="noopener">Paper and Appendices</a>
 </small>
 <details style="margin-top:6px;">
   <summary style="cursor:pointer;">Expand Abstract +</summary>
