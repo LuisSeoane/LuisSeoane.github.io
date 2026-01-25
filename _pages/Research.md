@@ -15,7 +15,7 @@ author_profile: true
     with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>
   </div>
   <div style="margin-bottom:2px;">
-    Preventive Medicine (2026)
+    Preventive Medicine,204,108503 (2026)
   </div>
   <details style="margin:0;">
     <summary style="cursor:pointer; margin:0; padding:0;">
