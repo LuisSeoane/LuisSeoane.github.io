@@ -8,4 +8,4 @@ redirect_from:
   - /resume
 ---
 
-[**➡️ Click here to view or download my CV**](/files/0126_CV.pdf){:target="_blank"}
+[**➡️ Click here to view or download my CV**](/files/0326_CV.pdf){:target="_blank"}
