@@ -9,6 +9,32 @@ author_profile: true
 
 <div style="margin-bottom:18px; padding:0;">
   <div style="font-weight:700;">
+    <strong>Breastfeeding Initiation and the Formula Shortage in the United States: 2022–2024</strong>
+  </div>
+  <div style="font-style:italic;">
+    with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>
+  </div>
+  <div style="margin-bottom:2px;">
+    Pediatrics, 157(6), e2025075813 (2026)
+  </div>
+  <details style="margin:0;">
+    <summary style="cursor:pointer; margin:0; padding:0;">
+      <span style="text-decoration: underline;">Expand Abstract +</span>
+      &nbsp;|&nbsp;
+      <a href="https://doi.org/10.1542/peds.2025-075813"
+         target="_blank" rel="noopener"
+         onclick="event.stopPropagation();">
+        Journal Link
+      </a>
+    </summary>
+    <div style="margin-top:4px;">
+This study examines whether breastfeeding initiation gains observed during the 2022 infant formula shortage persisted after formula supplies normalized. Using restricted national birth certificate data from 2016 to 2024 for 47 states and the District of Columbia, we applied Bayesian structural time-series models and linear probability models to estimate changes in breastfeeding initiation before, during, and after the shortage. Breastfeeding initiation remained above pre-shortage levels in 2023 and 2024, averaging 85.43 percent and remaining 1.25 percentage points higher than expected based on prior trends. Gains were especially persistent among mothers with less than a high school diploma, Medicaid coverage, and WIC participation. Among first-time mothers meeting our definition of socioeconomic disadvantage, breastfeeding initiation increased by 4.22 percentage points. The findings indicate that the 2022 infant formula shortage had lasting effects on breastfeeding initiation, with the most durable gains among less advantaged mothers, while also highlighting the continued relevance of structural barriers to breastfeeding.
+    </div>
+  </details>
+</div>
+
+<div style="margin-bottom:18px; padding:0;">
+  <div style="font-weight:700;">
     <strong>Breastfeeding Patterns During the 2022 United States Infant Formula Shortage and Projected Infant Healthcare Costs</strong>
   </div>
   <div style="font-style:italic;">
