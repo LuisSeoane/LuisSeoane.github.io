@@ -182,6 +182,9 @@ with
 <a href="https://are.uconn.edu/person/mengji-li/" target="_blank" rel="noopener">Mengjie Li</a>,
 and <a href="https://are.uconn.edu/person/ruirui-dang/" target="_blank" rel="noopener">Ruirui Dang</a>
 <br/>
+<small>
+  Draft available upon request
+</small>
 
 <strong>The Effect of State Paid Family Leave on Food Security among Households with Infants</strong><br/>
 with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>
