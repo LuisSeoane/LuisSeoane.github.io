@@ -7,6 +7,8 @@ author_profile: true
 
 # **Courses**<br/> 
 
+**ARE 2210/SARE 460 Essentials of Accounting and Business (3 credits)** <br/> *University of Connecticut, Summer 2024* <br/> This course provides undergraduate students with an understanding of the fundamentals of business recordkeeping and management skills for agribusiness firms. Topics include planning, organizing, controlling, and directing functions of management, as well as the records that business owners need to maintain. <a href="/files/ARE2210_SARE460_Syllabus.pdf" target="_blank">Syllabus</a> &nbsp;|&nbsp; <a href="/files/ARE2210_SARE460_Evaluations.pdf" target="_blank">Student Evaluations</a> <br/><br/>
+
 **ARE 2210/SARE 460 Essentials of Accounting and Business (3 credits)** <br/> 
 This course will provide undergraduate students with an in-depth understanding of the important fundamentals of business recordkeeping and management skills for agribusiness firms. Topics will include an analysis of the planning, organizing, controlling, and directing functions of management and an extensive review of the various records that business owners need to maintain. 
 [Syllabus](/files/ARE2210_SARE460_Syllabus.pdf){:target="_blank"} 
