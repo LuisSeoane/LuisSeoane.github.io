@@ -176,6 +176,13 @@ Conventional wisdom holds that increases in the minimum wage reduce employment b
   </details>
 </div>
 
+<strong>Effects of Statewide Universal School Meal Policies on Household Grocery Spending and Food Purchasing Patterns</strong><br/>
+with
+<a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>,
+<a href="https://are.uconn.edu/person/mengji-li/" target="_blank" rel="noopener">Mengjie Li</a>,
+and <a href="https://are.uconn.edu/person/ruirui-dang/" target="_blank" rel="noopener">Ruirui Dang</a>
+<br/>
+
 <strong>The Effect of State Paid Family Leave on Food Security among Households with Infants</strong><br/>
 with <a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>
 <br/>
@@ -193,13 +200,6 @@ and <a href="https://are.uconn.edu/person/sandra-lettu/" target="_blank" rel="no
 
 <br/>
 <h1>Work in Progress</h1>
-
-<strong>Effects of Statewide Universal School Meal Policies on Household Grocery Spending and Food Purchasing Patterns</strong><br/>
-with
-<a href="https://are.uconn.edu/person/tatiana-andreyeva/" target="_blank" rel="noopener">Tatiana Andreyeva</a>,
-<a href="https://are.uconn.edu/person/mengji-li/" target="_blank" rel="noopener">Mengjie Li</a>,
-and <a href="https://are.uconn.edu/person/ruirui-dang/" target="_blank" rel="noopener">Ruirui Dang</a>
-<br/>
 
 <br/>
 <h1>Research Reports/Outreach Publications</h1>
