@@ -18,6 +18,6 @@ My work includes research on employer concentration and minimum wages, paid fami
 
 Before my doctoral studies, I spent six years developing credit risk models for financial institutions in Spain, Italy, and France, working with large datasets and quantitative models to support financial decision-making.
 
-You can find my CV [here](https://luisseoane.github.io/files/CV_Luis_Seoane_0626.pdf).
+You can find my CV [here](https://luisseoane.github.io/files/CV_Luis_Seoane_0926.pdf).
 
 Contact: <a href="mailto:luis.seoane@uconn.edu?">luis.seoane@uconn.edu</a>
