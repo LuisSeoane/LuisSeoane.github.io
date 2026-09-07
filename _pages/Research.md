@@ -164,7 +164,7 @@ Breastfeeding enhances maternal and child health, yet U.S. breastfeeding rates r
     <summary style="cursor:pointer; margin:0; padding:0;">
       <span style="text-decoration: underline;">Expand Abstract +</span>
       &nbsp;|&nbsp;
-      <a href="/files/JMP_Labor.pdf"
+      <a href="/files/MW_Impact_on_Low_Wage_Employment_Does_Concentration_Matter.pdf"
          target="_blank" rel="noopener"
          onclick="event.stopPropagation();">
         Working Paper
